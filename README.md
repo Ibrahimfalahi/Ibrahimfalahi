@@ -13,7 +13,7 @@ Currently working as a CTO, focusing on designing and delivering AI infrastructu
 
 
 
-🧠 Current Focus:
+Current Focus:
 	•	AI Automation & Intelligent Workflows
 	•	Conversational AI & Voice Systems
 	•	SaaS Product Development
@@ -21,7 +21,7 @@ Currently working as a CTO, focusing on designing and delivering AI infrastructu
 
 
 
-🛠 Tech Stack: 
+Tech Stack: 
 	•	Frontend: HTML, CSS, JavaScript
 	•	Frameworks: React.js, Next.js
 	•	Backend: Node.js, Fastify
@@ -32,21 +32,21 @@ Currently working as a CTO, focusing on designing and delivering AI infrastructu
 
 
 
-📌 Projects:
+Projects:
 	•	Phygital Magnet – AI-powered system to convert physical interactions into digital engagement pipelines
 	•	Business Automation Systems – Workflow automation for operations and customer communication
 	•	AI Voice & Chat Systems – Real-time AI interaction systems using STT/TTS
 
 
 
-🌱 Currently Learning
+Currently Learning
 	•	Advanced system design
 	•	AI infrastructure scaling
 	•	Product-level thinking
 
 
 
-⚡ Fun Facts
+Fun Facts
 	•	I enjoy building things that solve real-world problems
 	•	Interested in business, technology, and growth
 	•	Always looking to improve systems and workflows
